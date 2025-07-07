@@ -1,4 +1,4 @@
----
+[---
 layout: ieeevr-default
 title: "Papers"
 subtitle: "IEEE VR 2026"
@@ -227,3 +227,4 @@ title_separator: "|"
 <p><a href="mailto:program2026@ieeevr.org">program2026@ieeevr.org</a></p>
 
 
+](https://github.com/ieeevr/2026/blob/main/contribute/papers/index.md)
