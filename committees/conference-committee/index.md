@@ -330,6 +330,7 @@ title_separator: "|"
   </h2>
   <ul>
     <li><span class="bold">Sunghoon Ihm</span> – <i>DGIST, Korea</i></li>
+    <li><span class="bold">Kwang-Ju Kim</span> – <i>ETRI, Korea</i></li>
     <li><span class="bold">Gyeorae Yoon</span> – <i>KNU, Korea</i></li>
   </ul>
 </div>
